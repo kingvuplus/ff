@@ -1,7 +1,7 @@
 installdir = $(pkglibdir)/python/Plugins/SystemPlugins
 
 SUBDIRS = PositionerSetup Satfinder \
-	VideoTune Videomode SkinSelector Hotplug \
+	VideoTune Videomode Hotplug \
 	DefaultServicesScanner CommonInterfaceAssignment \
 	HdmiCEC VideoClippingSetup \
 	VideoEnhancement WirelessLan NetworkWizard \
